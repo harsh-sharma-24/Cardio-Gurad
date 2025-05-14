@@ -1,0 +1,1 @@
+app.py is the main backend code and it uses flask and randomforest model to calculate the risk
